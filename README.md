@@ -1,5 +1,3 @@
-i couldn't figure out the problem it says rate limit error everythig looks good except this error.
+it says i dont have access to your database but the connection looks great.
 
-https://github.com/user-attachments/assets/ba91d743-2b9c-4221-9bf0-02d55aedf052
-
-
+[19.05.2025 17_11_31 - Screen - İsimsiz video.webm](https://github.com/user-attachments/assets/150a07ab-1b89-47e7-bc36-6a2724be6944)
